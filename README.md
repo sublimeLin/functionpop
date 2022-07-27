@@ -30,10 +30,47 @@
 #### 4. 訂單分析
 
 
-## 使用技術
+## 技術點
 <li> RWD響應式網頁設計
 
 ![RWD_HomePage.](https://github.com/sublimeLin/functionpop/blob/main/%E6%88%AA%E5%9C%96%202022-07-21%20%E4%B8%8A%E5%8D%8810.52.09.png)
+  
+<li> 商品放大鏡功能
+  
 ![RWD_Product.](https://github.com/sublimeLin/functionpop/blob/main/%E6%88%AA%E5%9C%96%202022-07-21%20%E4%B8%8A%E5%8D%8810.53.49.png)
 
+<li> Lazy Loading 延遲載入 (左側延遲載入 vs 右側未使用延遲載入)
+ 
+ ![Lazy Loading.](https://github.com/sublimeLin/functionpop/blob/main/291970612_419148890230498_9137078607766036183_n.png)
+  
+  
+## 使用技術
+  #### 前端
+  <li> HTML
+  <li> CSS
+  <li> Javascript
+  <li> jQuery
+  <li> Bootstrap
+  <li> Sass
+  <li> RESTful API
+    
+    
+  #### 後端
+  <li> Node.js
+  <li> Express
 
+  #### 資料庫
+  <li> MySQL
+    
+  #### 設計
+  <li> Figma
+  <li> Illustrator
+  <li> Photoshop
+    
+    
+    
+  
+  
+  
+  
+  

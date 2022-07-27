@@ -30,6 +30,10 @@
 #### 4. 訂單分析
 
 
+## 使用技術
+<li> RWD響應式網頁設計
 
+![RWD_HomePage.](https://github.com/sublimeLin/functionpop/blob/main/%E6%88%AA%E5%9C%96%202022-07-21%20%E4%B8%8A%E5%8D%8810.52.09.png)
+![RWD_Product.](https://github.com/sublimeLin/functionpop/blob/main/%E6%88%AA%E5%9C%96%202022-07-21%20%E4%B8%8A%E5%8D%8810.53.49.png)
 
 
